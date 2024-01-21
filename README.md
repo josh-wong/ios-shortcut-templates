@@ -20,13 +20,13 @@ Before running this shortcut, you need to make a CSV file in the specified folde
 
 In the CSV file, create a header that includes the following, replacing the content in the angle brackets with the data that you would like to collect:
 
-• Date
-• Time
-• Day of week
-• <CHOICE>
-• <VARIABLE>
-• Location
-• <VARIABLE>
+- Date
+- Time
+- Day of week
+- <CHOICE>
+- <VARIABLE>
+- Location
+- <VARIABLE>
 
 ## [Template] Choices+ to CSV
 
@@ -46,10 +46,10 @@ Before running this shortcut, you need to make a CSV file in the specified folde
 
 In the CSV file, create a header that includes the following, replacing the content in the angle brackets with the data that you would like to collect:
 
-• Date
-• Time
-• Day of week
-• <CHOICE/SELECTION>
-• <VARIABLE>
-• Location
-• <VARIABLE>
+- Date
+- Time
+- Day of week
+- <CHOICE/SELECTION>
+- <VARIABLE>
+- Location
+- <VARIABLE>
