@@ -14,7 +14,7 @@ This Shortcuts template records a choice and related information by adding that 
 
 > [!NOTE]
 > 
-> This shortcut is similar to [[Template] Choices+ to CSV](template-choices-to-csv) but allows for granular choices to be selected.
+> This shortcut is similar to [[Template] Choices+ to CSV](#template-choices-to-csv) but allows for granular choices to be selected.
 
 Before running this shortcut, you need to make a CSV file in the specified folder. 
 
@@ -40,7 +40,7 @@ This Shortcuts template records a choice, additional choices related to that cho
 
 > [!NOTE]
 > 
-> This shortcut is similar to [[Template] Choice to CSV](template-choice-to-csv) but allows for granular choices to be selected.
+> This shortcut is similar to [[Template] Choice to CSV](#template-choice-to-csv) but allows for granular choices to be selected.
 
 Before running this shortcut, you need to make a CSV file in the specified folder. 
 
