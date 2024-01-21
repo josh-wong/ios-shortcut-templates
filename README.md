@@ -10,7 +10,7 @@ This Shortcuts template records a choice and related information by adding that 
 <!----------------------------------------------------------------------------->
 [Link]: https://www.icloud.com/shortcuts/4fb3bc39e5aa406eb2a9a68508c943fa '[Template] Choice to CSV'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/Download-2673BB?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Icon]: https://img.shields.io/badge/Download-Shortcut-2673BB?style=for-the-badge&logoColor=white&logo=DocuSign
 
 > [!NOTE]
 > 
@@ -36,7 +36,7 @@ This Shortcuts template records a choice, additional choices related to that cho
 <!----------------------------------------------------------------------------->
 [Link]: https://www.icloud.com/shortcuts/8fe720eb4cf241a4b9023ea3284cfd53 '[Template] Choice to CSV'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/Download-2673BB?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Icon]: https://img.shields.io/badge/Download-Shortcut-2673BB?style=for-the-badge&logoColor=white&logo=DocuSign
 
 > [!NOTE]
 > 
