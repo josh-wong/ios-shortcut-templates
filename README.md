@@ -23,10 +23,10 @@ In the CSV file, create a header that includes the following, replacing the cont
 - Date
 - Time
 - Day of week
-- <CHOICE>
-- <VARIABLE>
+- `<CHOICE>`
+- `<VARIABLE_1>`
 - Location
-- <VARIABLE>
+- `<VARIABLE_2>`
 
 ## [Template] Choices+ to CSV
 
@@ -49,7 +49,7 @@ In the CSV file, create a header that includes the following, replacing the cont
 - Date
 - Time
 - Day of week
-- <CHOICE/SELECTION>
-- <VARIABLE>
+- `<CHOICE/SELECTION>`
+- `<VARIABLE_1>`
 - Location
-- <VARIABLE>
+- `<VARIABLE_2>`
